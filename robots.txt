@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dimptosc.github.io/sitemap.html.gz
+Sitemap: https://dimptosc.github.io/app/sitemap.html.gz
+Sitemap: https://dimptosc.github.io/assets/sitemap.html.gz
+Sitemap: https://dimptosc.github.io/css/sitemap.html.gz
+Sitemap: https://dimptosc.github.io/includes/sitemap.html.gz
+Sitemap: https://dimptosc.github.io/item/sitemap.html.gz
+Sitemap: https://dimptosc.github.io/src/sitemap.html.gz
